@@ -1,0 +1,20 @@
+p {
+    font-size: 30px;
+    font-family: "times new roman";
+    font-weight: bold;
+    color: #6C1506;
+    text-align: right;
+
+}
+body {
+    background-color: cadetblue;
+}
+header {
+    background-color: aquamarine;
+}
+main {
+    background-color: bisque;
+}
+footer {
+    background-color: rgb(64, 27, 150);
+}
