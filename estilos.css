@@ -1,5 +1,5 @@
 p {
-    font-size: 30px;
+    font-size: 20px;
     font-family: "times new roman";
     font-weight: bold;
     color: #6C1506;
@@ -18,4 +18,11 @@ main {
 }
 footer {
     background-color: rgb(64, 27, 150);
+}
+.parrafo1 {
+    font-size: 50px;
+}
+.parrafo2 {
+    color: orange;
+    
 }
